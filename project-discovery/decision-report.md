@@ -2,7 +2,7 @@
 
 Prepared 22 September 2026. Status: **desk-research recommendation, not yet validated by customer behaviour.** Confidence in the winner is low to medium. The lead over the runner-up is narrow and depends on one assumption that 14 days of fieldwork can settle.
 
-Companion files: `evidence.md` (sources, calculations, gaps), `validation-plan.md` (the 14-day test, outreach, offer, criteria), `progress.md` (status and next step), `research_notes/` (raw scan notes, about 250 source URLs), `analysis/` (scoring and unit-economics scripts; run them to reproduce every number here).
+Companion files: `evidence.md` (sources, calculations, gaps), `validation-plan.md` (the 14-day test, outreach, offer, criteria), `progress.md` (status and next step), `research_notes/` (raw scan notes, about 550 source URLs), `analysis/` (scoring and unit-economics scripts; run them to reproduce every number here).
 
 ---
 
