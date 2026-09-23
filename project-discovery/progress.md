@@ -1,10 +1,33 @@
 # Progress log: project discovery for Rune á Kamarinum
 
-Last updated: 22 September 2026.
+Last updated: 23 September 2026.
 
 ## Status in one line
 
 Desk research is complete and a lead project has been recommended: **robust, calm rooms for specialist settings**, with staff safety alarms and estate clearance as the two alternatives. It is **not yet validated**. Next comes the 14-day validation in `validation-plan.md`, which only you can run.
+
+## Update, 23 September 2026: market check and outreach
+
+You asked me to send enquiries and check the markets for the cases that are good businesses. What I did:
+- **Market check (web search worked again):**
+  - HealSafe's Danish distributor is Arkisafe.
+  - Arkisafe also represents Teal LifeCare and already furnishes social settings (Bo og Naboskab Sydlolland).
+  - Pineapple lists a Danish distributor.
+  - Affari's "ROBUST" is home decor, not care furniture.
+
+  Two claims from 22 September were wrong and are now corrected in `decision-report.md`, `evidence.md` and `validation-plan.md`. Details are in `evidence.md` §3.6.
+- **Re-score:** A (robust rooms) and B (staff alarms) now tie at 3.45, and B leads under four of six weightings. The desk evidence no longer picks a winner. The recommendation is the joint 14-day test of A and B with the same buyers.
+- **Emails: 3 drafts created in Gmail (rkamarinum@gmail.com). None sent:**
+  1. Arkisafe (arkisafe@arkisafe.dk): partner, agent or reseller terms for private social settings. **Your decision:** it tells your main would-be competitor about your plans.
+  2. Pineapple Contracts (sales@pineapplecontracts.com): who the Danish distributor is; terms for a social-care partner.
+  3. Linucare (kontakt@linucare.dk): alarm partner or reseller terms, prices, self-test logs, data export, demo kit (the test of B).
+
+  Each draft has a `[phone]` placeholder to fill in.
+- **Not sent, and why:**
+  - No supplier emails to HealSafe or Affari: HealSafe is already represented by Arkisafe, and Affari is irrelevant.
+  - No cold email to institutions: markedsføringsloven § 10 bans unsolicited electronic marketing to businesses. Interviews need you in person, and your warm contacts are not known to me.
+  - Nothing for C, D or E: they are not good enough cases.
+  - CEKURA has no public email; phone 32 31 60 50 if you want a second alarm partner.
 
 ## Materials inspected
 
@@ -66,10 +89,10 @@ Desk research is complete and a lead project has been recommended: **robust, cal
 
 ## Precise next step
 
-**Tomorrow, you:** follow section 11 of `validation-plan.md`.
+**Tomorrow, you:** follow section 11 of `validation-plan.md` (revised 23 Sep).
 1. Check your contract, then build the list of 60 settings, marking the warm ones.
-2. Send the supplier enquiry to four makers.
-3. Contact your 10 warmest leaders and book five interviews for days 3–5.
+2. Review the three Gmail drafts, add your phone number, and send the ones you agree with.
+3. Contact your 10 warmest leaders (by phone, or by email if you know them) and book five interviews for days 3–5. Ask the furniture questions *and* the alarm questions.
 
 **On day 14:** fill in the section 8 scorecard, then continue, revise or stop.
 

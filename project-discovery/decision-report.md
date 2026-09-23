@@ -2,6 +2,27 @@
 
 Prepared 22 September 2026. Status: **desk-research recommendation, not yet validated by customer behaviour.** Confidence in the winner is low to medium. The lead over the runner-up is narrow and depends on one assumption that 14 days of fieldwork can settle.
 
+> **Update, 23 September 2026: market check.** Web search worked again, so I checked the supply route before sending any supplier emails. Sources are in `evidence.md` §3.6. What I found:
+> - **HealSafe already has a Danish distributor: Arkisafe.** HealSafe's own distributors page lists it. The 22 September claim that "no Danish distributor was found" was wrong.
+> - **Arkisafe also represents Teal LifeCare in Scandinavia** and already serves social settings, not only psychiatry. For example, it furnished Bo og Naboskab Sydlolland, a municipal residential unit for adults with developmental disabilities.
+> - **Pineapple Contracts lists a distributor in Denmark.** Its name was not found.
+> - **Affari of Sweden's "ROBUST" is a home-decor collection** made from recycled metal barrels. It is not care furniture and should not have been listed.
+>
+> **What this means:**
+> - **Demand for A is stronger than I thought:** social settings do buy robust furniture.
+> - **A's plan to become a distributor is mostly closed:** the specialist makers are already represented, mainly by the main competitor.
+> - **The remaining routes for A all need your decision:**
+>   1. become an agent or reseller *through* Arkisafe or Pineapple's Danish distributor, with a lower margin
+>   2. an own-brand range made by Danish joiners, with more capital and testing
+>   3. sell the walkthrough as a paid service and buy products from whoever supplies
+> - **A and B are now tied:** 3.45 each at base weights, and B leads in four of the six weightings (`analysis/scoring.py`).
+>
+> **The evidence no longer picks a single winner.** Per the brief, the recommendation becomes the most valuable next experiment. That is the same 14-day sprint with the same buyers, now testing A and B as equals, plus partner terms for each: Arkisafe for A, Linucare for B. Three enquiry emails (Arkisafe, Pineapple, Linucare) are saved as **drafts** in your Gmail and have not been sent.
+>
+> Cold email to institutions is not an option: Danish law bans unsolicited marketing email to businesses as well as to consumers (markedsføringsloven § 10). Customer contact must be by phone or to people you know.
+>
+> The sections below keep the original 22 September analysis. Where the update contradicts them, the update wins.
+
 Companion files: `evidence.md` (sources, calculations, gaps), `validation-plan.md` (the 14-day test, outreach, offer, criteria), `progress.md` (status and next step), `research_notes/` (raw scan notes, about 550 source URLs), `analysis/` (scoring and unit-economics scripts; run them to reproduce every number here).
 
 ---
@@ -19,7 +40,7 @@ Companion files: `evidence.md` (sources, calculations, gaps), `validation-plan.m
 1. **Buyers already pay for this category.** Danish regional psychiatry buys anti-ligature and robust furniture. Arkisafe has announced agreements with Region Hovedstaden, Region Sjælland and Region Nordjylland, and Daarbak Design has supplied the regions under the D5R framework since 1 April 2025.
 2. **The law makes the physical setting part of violence prevention.** Arbejdstilsynet's violence guidance (At-vejledning D.4.3) tells employers to consider the *physical framework* when assessing violence risk. Violence is high where these units operate: 343 reported accidents per 10,000 employees in residential institutions and home care in 2023, mainly from violence and stress, and 27% of Socialpædagogerne members reported physical violence in the past 12 months (2023 survey). Institut for Menneskerettigheder reports rising violence and threats against residents of residential care (*botilbud*).
 3. **Specialist budgets are large and growing, and settings pay for their physical environment.** Municipal spending on specialist schools and special classes rose from DKK 12.6bn (2019) to DKK 14.4bn (2024). Sensory rooms get funded from municipal budgets (Hedensted: DKK 500k in 2025) and foundations (a regional special school: DKK 172k).
-4. **The private segment looks under-served and reachable.** The proven suppliers are built around regional frameworks and large psychiatry projects. The Swedish maker HealSafe says it sells directly only in Sweden and Norway and picks distributors for other countries; no Danish distributor was found. Almost every purchase in this segment falls far below the DKK 1,611,360 EU threshold for goods (2026–27). Private providers probably buy outside public frameworks, but that still needs a legal check.
+4. **The private segment looks under-served and reachable.** The proven suppliers are built around regional frameworks and large psychiatry projects. The Swedish maker HealSafe says it sells directly only in Sweden and Norway and picks distributors for other countries. *(Corrected 23 Sep: its Danish distributor is Arkisafe, which also serves social settings, so this segment is less open than stated here.)* Almost every purchase in this segment falls far below the DKK 1,611,360 EU threshold for goods (2026–27). Private providers probably buy outside public frameworks, but that still needs a legal check.
 
 **Why you:**
 - **You know the problem from inside.** You have spent over ten years in specialist education and day treatment. You know what gets thrown, what gets broken, what staff strip out of rooms, and what Arbejdstilsynet and the social inspectorate (*Socialtilsynet*) look at. You speak the buyer's language and can run a walkthrough that a furniture salesperson cannot.
@@ -126,7 +147,7 @@ All DKK figures exclude VAT unless marked. "Fact" means seen in a search extract
 - **Weak for this segment:** there is anecdote (young residents throwing tables and chairs; source: Altinget) and context (violence rates, specialist budgets, sensory-room spending). No transaction, price or damage-cost data was found for private settings.
 
 **Competition and alternatives.**
-- **Direct:** Arkisafe (Danish; distributes Teal LifeCare furniture for "challenged environments"; anti-ligature curtains and fittings; regional agreements), Daarbak Design (health sector; SKI 50.30 and 03.13; D5R framework), HealSafe (Swedish; no Danish distributor found), Affari of Sweden "ROBUST", Pineapple Contracts (UK), Broda and Norix (US).
+- **Direct:** Arkisafe (Danish; distributes Teal LifeCare, UK, and HealSafe, Sweden, furniture for "challenged environments"; anti-ligature curtains and fittings; regional agreements; already furnishes municipal social settings such as Bo og Naboskab Sydlolland), Daarbak Design (health sector; SKI 50.30 and 03.13; D5R framework), Pineapple Contracts (UK; lists a Danish distributor), Broda and Norix (US). Norwegian health and institution furniture makers such as Haugstad Fabrikker are possible further sources. *(Affari of Sweden "ROBUST" was removed on 23 Sep: it is home decor.)*
 - **Indirect:** standard contract furniture through SKI (Lekolar Leika, Kinnarps and others), retail flat-pack, local joinery, sensory-room suppliers (MultiCare, Ran-Play and others).
 - **Doing nothing:** strip rooms and replace as things break.
 - **Prices:** no robust-range prices were public in the extracts, so supplier price lists are a day-1 task.
@@ -144,7 +165,7 @@ The incumbents are organised around regional framework tenders and large psychia
 **First version: what you do versus partners.**
 - **You:** sales, walkthroughs, room plans, quotes, customer relationships, before-and-after documentation.
 - **Partners:**
-  - one or two makers under an agent or distributor agreement (HealSafe first, because it states it seeks distributors, plus one alternative)
+  - one or two makers under an agent or distributor agreement. *Corrected 23 Sep: HealSafe and Teal LifeCare are already distributed in Denmark by Arkisafe, and Pineapple lists a Danish distributor. Realistic routes are agent or reseller terms through Arkisafe or Pineapple's Danish distributor, or an own-brand range from a Danish joiner.*
   - a freelance carpenter or installer
   - an accountant
   - an insurance broker for product and business liability
@@ -159,7 +180,7 @@ The incumbents are organised around regional framework tenders and large psychia
 1. **Warm network:** 20–30 leaders you can call personally. Expect 3–5 customers.
 2. **Referrals and case studies** from pilot customers.
 3. **LOS (the association of private social providers) and Selveje Danmark:** newsletters, regional meetings, conference stands. Both exist (background knowledge); member counts need verifying.
-4. **LinkedIn and phone outreach** to leaders, using lists from Tilbudsportalen.
+4. **Phone outreach** to leaders, using lists from Tilbudsportalen. *(23 Sep: not cold email or LinkedIn messages, because markedsføringsloven § 10 bans unsolicited electronic marketing to businesses.)*
 5. **Arbejdstilsynet's public smiley register:** a unit with a recent order about violence has a live trigger (verify that it can be searched this way).
 6. **Health-and-safety consultants** who advise after an Arbejdstilsynet order, as referrers.
 

@@ -2,6 +2,12 @@
 
 Prepared 22 September 2026 for Rune á Kamarinum. Everything here is a **draft for your review**. Nothing has been sent, bought, signed or published. Sending the messages, contacting suppliers and taking payment all need your own decision.
 
+> **Update, 23 September 2026.** The market check (`evidence.md` §3.6) changed four things:
+> 1. **Supply.** The specialist makers are already represented in Denmark: HealSafe and Teal LifeCare through Arkisafe, and Pineapple through an unnamed distributor. Affari is irrelevant. The supplier test now asks for **agent or reseller terms** from Arkisafe and Pineapple's Danish distributor, plus **a Danish joiner's quote** for an own-brand option.
+> 2. **A and B are tied.** Test them as equals with the same interviews. The B probe questions are now core questions.
+> 3. **No cold email to institutions.** Markedsføringsloven § 10 bans unsolicited marketing email to businesses too. Contact cold settings by phone. Use email only with people you know or who agree to it on the phone.
+> 4. **Three enquiries are ready as Gmail drafts, not sent:** Arkisafe (partner or agent terms), Pineapple (Danish distributor and terms), Linucare (alarm partner terms). Fill in your phone number, read them, and send the ones you agree with.
+
 ---
 
 ## 1. What the 14 days must settle
@@ -39,9 +45,9 @@ The recommendation in `decision-report.md` rests on three assumptions. Each gets
 | Day | Actions | Owner | Cost (DKK) | Evidence expected |
 |---|---|---|---|---|
 | 1 | Check your employment contract's rules on side businesses and decide how to handle your own employer: exclude it as a customer during validation and never use its internal information. Build a target list of 60 private or self-governing specialist settings within 90 minutes from Tilbudsportalen, danskeskoler.dk and your network. Tag 20–30 as *warm* (you can call the leader personally). Check the working name and domain are free | R | 0–200 | Count of settings by type; size of warm list; clarity on conflicts of interest |
-| 2 | Send the **supplier enquiry** (section 6.3) to HealSafe, Affari of Sweden, Pineapple Contracts and Broda or Norix. Send the **outreach message** (section 6.1) to the 10 warmest contacts. Phone 5 of them | R | 0 | Supplier reply rate; first meeting bookings |
+| 2 | *(Revised 23 Sep.)* Review and send the Gmail drafts to **Arkisafe** (agent or reseller terms), **Pineapple** (Danish distributor and terms) and **Linucare** (alarm partner terms). Ask one Danish joiner (snedker) for a rough quote on 2–3 robust items: a heavy table, a fixed bench and a robust bed frame. Send the **outreach message** (section 6.1) to the 10 warmest contacts. Phone 5 of them | R | 0 | Supplier reply rate; first meeting bookings |
 | 3 | Interviews 1–3 (30 min each, phone or video). Use the guide in section 5 and write notes the same day in the log template (section 9) | R | 0 | Recent damage events; what was replaced; spend; who approved |
-| 4 | Interviews 4–6. Send outreach to the next 10 warm and 15 cold contacts (LinkedIn or phone) to measure the cold channel. Follow up suppliers | R | 0 | Warm vs cold acceptance rate |
+| 4 | Interviews 4–6. Contact the next 10 warm contacts, and phone 15 cold ones to measure the cold channel. Cold contacts by phone only: § 10 treats email and social-media messages as electronic marketing. Follow up suppliers | R | 0 | Warm vs cold acceptance rate |
 | 5 | Build the **demonstration** (section 7): walkthrough checklist, a 1-page offer, and 3 package sheets from supplier catalogues (with permission) or clearly labelled examples. Ask one maker for a sample or demo loan | R | 0–500 | Material ready for paid offers |
 | 6–7 | Summarise interviews 1–6: count settings with damage-driven spend ≥ DKK 10k and list verbatim quotes. Adjust the price hypothesis. Optional: email LOS and Selveje Danmark about member numbers, regional meetings and newsletter rates | R | 0 | First read on assumption 1; channel costs |
 | 8 | Interviews 7–9. At the end of each call with strong pain, **offer the paid walkthrough** (section 6.4). Ask for a date and a purchase order or confirmation email | R | 0 | First paid commitments |
@@ -115,6 +121,8 @@ The recommendation in `decision-report.md` rests on three assumptions. Each gets
 (If the leader then asks for help, the paid walkthrough can be offered at the end, as the leader's choice.)
 
 ### 6.3 Supplier enquiry (English)
+
+*Superseded 23 Sep for HealSafe and Affari, which are already represented or irrelevant. The live versions are the three Gmail drafts described at the top of this plan. The template below still works for any maker without Danish representation (for example Norwegian or Baltic makers).*
 
 > **Subject:** Danish distribution enquiry: robust furniture for social care and special-education settings
 >
@@ -193,7 +201,7 @@ This tests willingness to pay (a paid walkthrough and letters of intent with pri
 | M1 Interviews completed | ≥ 12 | 10–11 (extend 1 week) | < 10 | Below 10, one outlier can flip every rate below |
 | M2 Settings with damage- or safety-driven replacement ≥ DKK 10k in the last 12 months | ≥ 50% | 30–49%: narrow to the highest-intensity segment (for example young people's residential units) | < 30% | At 50%+ the problem is common, not anecdotal. DKK 10k a year makes a DKK 25k+ package pay back in 2–3 years if robust items last longer |
 | M3 Paid walkthroughs, or signed letters of intent with a price ≥ DKK 25k | ≥ 3 | 1–2 | 0 | 3 of about 12 warm conversations (25%) shows real pull; warm leads that convert below 10% signal weak demand. 3 also gives first revenue and references |
-| M4 Best supplier terms | ≥ 30% discount, one-room orders, ≤ 8 weeks, test documents | 25–29% or 8–12 weeks: renegotiate, add a second maker, or explore own-brand simple items | < 25%, or no maker willing | Economics: at a 25% discount, contribution falls from 22% (mid case) to about 15% on a DKK 45k order (≈ 9 orders a year just to cover DKK 60k of fixed costs) and to 10% on a DKK 30k order (≈ 20+ orders). That is too thin for a part-time business |
+| M4 Best supplier terms | ≥ 30% discount, one-room orders, ≤ 8 weeks, test documents | 25–29% or 8–12 weeks: renegotiate, add a second maker, or explore own-brand simple items | < 25%, or no maker willing *(revised 23 Sep: a workable route means reseller discount ≥ 30%, or agent commission ≥ 12–15% with no stock or liability, or a joiner's quote allowing ≥ 45% gross margin on own items)* | Economics: at a 25% discount, contribution falls from 22% (mid case) to about 15% on a DKK 45k order (≈ 9 orders a year just to cover DKK 60k of fixed costs) and to 10% on a DKK 30k order (≈ 20+ orders). That is too thin for a part-time business |
 | M5 Meeting acceptance | Warm ≥ 40% and cold ≥ 10% | Warm 20–39% | Warm < 20% | Warm acceptance under 20% means even trusted contacts see no problem worth 20 minutes |
 | M6 Competition check | < 3 of 12 already buy robust packages and are satisfied | ≥ 3 satisfied with Arkisafe or others: differentiate on service or change segment | Most already served at similar prices | Tests the "under-served segment" hypothesis |
 | B trigger | — | ≥ 5 of 10 report an alarm failure or a contract ending within 12 months, **and** ≥ 2 accept a paid alarm review: evaluate B through a partner | — | Same buyers; switch only on behaviour, not opinion |
@@ -235,5 +243,5 @@ This tests willingness to pay (a paid walkthrough and letters of intent with pri
 ## 11. The first three actions for tomorrow
 
 1. **Build the list (90 min).** First read your employment contract's rules on side businesses (10 min). Then list 60 private or self-governing specialist settings within 90 minutes' drive from Tilbudsportalen, danskeskoler.dk and your own contacts, and mark the 20–30 whose leader you can call personally.
-2. **Ask four makers for terms (45 min).** Adapt and send the supplier enquiry (6.3) to HealSafe, Affari of Sweden, Pineapple Contracts and Broda or Norix, asking for Danish distributor terms, price lists, lead times and test documentation.
+2. **Send the partner enquiries (20 min).** *(Revised 23 Sep.)* Open the three Gmail drafts (Arkisafe, Pineapple, Linucare), add your phone number, edit anything you disagree with, and send. Decide first whether you want Arkisafe, your main would-be competitor, to know your plans.
 3. **Book the first five interviews (60 min).** Send the outreach message (6.1) or phone (6.2) your 10 warmest contacts, and book interviews for days 3–5.

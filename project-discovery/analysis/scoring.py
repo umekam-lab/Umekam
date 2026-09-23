@@ -92,3 +92,23 @@ if __name__ == "__main__":
     a = dict(CANDIDATES["A Robust environments (furniture/fixtures)"]["score"], demand=2)
     b = dict(CANDIDATES["B Staff safety alarms + incident follow-up"]["score"], feasibility=3)
     print(f"A with demand 2: {total(a, BASE_WEIGHTS):.2f}; B with feasibility 3: {total(b, BASE_WEIGHTS):.2f}")
+
+
+# --- Market check, 23 Sep 2026 -------------------------------------------------
+# Findings: HealSafe's Danish distributor is Arkisafe; Arkisafe also distributes
+# Teal LifeCare and already furnishes a municipal residential unit for adults;
+# Pineapple lists a Danish distributor; Affari "ROBUST" is home decor, not care
+# furniture. Social settings DO buy robust furniture (demand up), but the supply
+# route is mostly held by one competitor (differentiation, margin, feasibility down).
+A_AFTER_CHECK = {"demand": 3.5, "reach": 4, "fit": 5, "margin": 2.5, "diff": 2,
+                 "feasibility": 3, "capital": 4, "growth": 2.5}
+
+if __name__ == "__main__":
+    print("\n## After the 23 Sep 2026 market check (A re-scored; B unchanged)\n")
+    b = CANDIDATES["B Staff safety alarms + incident follow-up"]["score"]
+    print("| Scenario | A (after check) | B | Leader |")
+    print("|---|---|---|---|")
+    for label, w in SCENARIOS.items():
+        a_t, b_t = total(A_AFTER_CHECK, w), total(b, w)
+        lead = "tie" if abs(a_t - b_t) < 0.005 else ("A" if a_t > b_t else "B")
+        print(f"| {label} | {a_t:.2f} | {b_t:.2f} | {lead} |")
