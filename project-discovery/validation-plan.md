@@ -6,7 +6,7 @@ Prepared 22 September 2026 for Rune á Kamarinum. Everything here is a **draft f
 > 1. **Supply.** The specialist makers are already represented in Denmark: HealSafe and Teal LifeCare through Arkisafe, and Pineapple through an unnamed distributor. Affari is irrelevant. The supplier test now asks for **agent or reseller terms** from Arkisafe and Pineapple's Danish distributor, plus **a Danish joiner's quote** for an own-brand option.
 > 2. **A and B are tied.** Test them as equals with the same interviews. The B probe questions are now core questions.
 > 3. **No cold email to institutions.** Markedsføringsloven § 10 bans unsolicited marketing email to businesses too. Contact cold settings by phone. Use email only with people you know or who agree to it on the phone.
-> 4. **Three enquiries are ready as Gmail drafts, not sent:** Arkisafe (partner or agent terms), Pineapple (Danish distributor and terms), Linucare (alarm partner terms). Fill in your phone number, read them, and send the ones you agree with.
+> 4. **Three enquiries were sent on 23 Sep** (with your approval) from rkamarinum@gmail.com: Arkisafe (partner or agent terms), Pineapple (Danish distributor and terms), Linucare (alarm partner terms). Log the replies in the supplier log (section 9).
 
 ---
 

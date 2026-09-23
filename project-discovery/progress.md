@@ -4,7 +4,7 @@ Last updated: 23 September 2026.
 
 ## Status in one line
 
-Desk research is complete. After the 23 September market check, **robust, calm rooms (A) and staff safety alarms (B) are tied**; estate clearance (C) is a distant third. Nothing is validated yet. Next comes the joint 14-day test of A and B in `validation-plan.md`, which only you can run. Three partner enquiries wait as Gmail drafts.
+Desk research is complete. After the 23 September market check, **robust, calm rooms (A) and staff safety alarms (B) are tied**; estate clearance (C) is a distant third. Nothing is validated yet. Next comes the joint 14-day test of A and B in `validation-plan.md`, which only you can run. Three partner enquiries were sent on 23 September (Arkisafe, Pineapple, Linucare).
 
 ## Update, 23 September 2026: market check and outreach
 
@@ -17,12 +17,11 @@ You asked me to send enquiries and check the markets for the cases that are good
 
   Two claims from 22 September were wrong and are now corrected in `decision-report.md`, `evidence.md` and `validation-plan.md`. Details are in `evidence.md` §3.6.
 - **Re-score:** A (robust rooms) and B (staff alarms) now tie at 3.45, and B leads under four of six weightings. The desk evidence no longer picks a winner. The recommendation is the joint 14-day test of A and B with the same buyers.
-- **Emails: 3 drafts created in Gmail (rkamarinum@gmail.com). None sent:**
+- **Emails: SENT on 23 Sep 2026** from rkamarinum@gmail.com, after your approval. The signature gives +45 40 30 47 17 and rune.lk@hotmail.com, so replies may arrive at either address. Follow up by phone if there is no reply within 5 working days (Arkisafe +45 88 63 43 00; Linucare 30 70 60 20; Pineapple +44 1622 237830):
   1. Arkisafe (arkisafe@arkisafe.dk): partner, agent or reseller terms for private social settings. **Your decision:** it tells your main would-be competitor about your plans.
   2. Pineapple Contracts (sales@pineapplecontracts.com): who the Danish distributor is; terms for a social-care partner.
   3. Linucare (kontakt@linucare.dk): alarm partner or reseller terms, prices, self-test logs, data export, demo kit (the test of B).
 
-  Each draft has a `[phone]` placeholder to fill in.
 - **Not sent, and why:**
   - No supplier emails to HealSafe or Affari: HealSafe is already represented by Arkisafe, and Affari is irrelevant.
   - No cold email to institutions: markedsføringsloven § 10 bans unsolicited electronic marketing to businesses. Interviews need you in person, and your warm contacts are not known to me.
@@ -91,7 +90,7 @@ You asked me to send enquiries and check the markets for the cases that are good
 
 **Tomorrow, you:** follow section 11 of `validation-plan.md` (revised 23 Sep).
 1. Check your contract, then build the list of 60 settings, marking the warm ones.
-2. Review the three Gmail drafts, add your phone number, and send the ones you agree with.
+2. Watch both inboxes for replies from Arkisafe, Pineapple and Linucare. Book the calls, and phone anyone who hasn't replied after 5 working days.
 3. Contact your 10 warmest leaders (by phone, or by email if you know them) and book five interviews for days 3–5. Ask the furniture questions *and* the alarm questions.
 
 **On day 14:** fill in the section 8 scorecard, then continue, revise or stop.
