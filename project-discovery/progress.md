@@ -4,7 +4,7 @@ Last updated: 23 September 2026.
 
 ## Status in one line
 
-Desk research is complete and a lead project has been recommended: **robust, calm rooms for specialist settings**, with staff safety alarms and estate clearance as the two alternatives. It is **not yet validated**. Next comes the 14-day validation in `validation-plan.md`, which only you can run.
+Desk research is complete. After the 23 September market check, **robust, calm rooms (A) and staff safety alarms (B) are tied**; estate clearance (C) is a distant third. Nothing is validated yet. Next comes the joint 14-day test of A and B in `validation-plan.md`, which only you can run. Three partner enquiries wait as Gmail drafts.
 
 ## Update, 23 September 2026: market check and outreach
 
@@ -79,7 +79,7 @@ You asked me to send enquiries and check the markets for the cases that are good
 
 ## Verification backlog, in priority order
 
-1. Supplier price lists and distributor terms (HealSafe, Affari, Pineapple, Broda, Norix), and Arkisafe's position in the social sector.
+1. Agent or reseller terms from Arkisafe and Pineapple's Danish distributor; a Danish joiner's quote for 2–3 own robust items; Linucare partner terms and prices (the drafts are in Gmail).
 2. Count of target settings (Tilbudsportalen, danskeskoler.dk).
 3. Whether private and self-governing providers are bound by municipal or SKI agreements (legal check).
 4. Spend per setting on damage-driven replacement (interviews only).
